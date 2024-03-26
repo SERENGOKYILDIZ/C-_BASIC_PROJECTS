@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\bin\Debug\net6.0-windows\Not_Hesaplama.exe
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\bin\Debug\net6.0-windows\Not_Hesaplama.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\bin\Debug\net6.0-windows\Not_Hesaplama.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\bin\Debug\net6.0-windows\Not_Hesaplama.dll
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\bin\Debug\net6.0-windows\Not_Hesaplama.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.dll
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\refint\Not_Hesaplama.dll
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\Not_Hesaplama.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama\Not_Hesaplama\obj\Debug\net6.0-windows\ref\Not_Hesaplama.dll

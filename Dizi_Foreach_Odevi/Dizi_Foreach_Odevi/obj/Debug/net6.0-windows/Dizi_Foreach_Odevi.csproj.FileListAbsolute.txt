@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\bin\Debug\net6.0-windows\Dizi_Foreach_Odevi.exe
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\bin\Debug\net6.0-windows\Dizi_Foreach_Odevi.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\bin\Debug\net6.0-windows\Dizi_Foreach_Odevi.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\bin\Debug\net6.0-windows\Dizi_Foreach_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\bin\Debug\net6.0-windows\Dizi_Foreach_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\refint\Dizi_Foreach_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\Dizi_Foreach_Odevi.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dizi_Foreach_Odevi\Dizi_Foreach_Odevi\obj\Debug\net6.0-windows\ref\Dizi_Foreach_Odevi.dll

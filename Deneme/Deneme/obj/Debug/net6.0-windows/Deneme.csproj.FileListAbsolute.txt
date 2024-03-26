@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\bin\Debug\net6.0-windows\Deneme.exe
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\bin\Debug\net6.0-windows\Deneme.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\bin\Debug\net6.0-windows\Deneme.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\bin\Debug\net6.0-windows\Deneme.dll
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\bin\Debug\net6.0-windows\Deneme.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.dll
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\refint\Deneme.dll
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\Deneme.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Deneme\Deneme\obj\Debug\net6.0-windows\ref\Deneme.dll

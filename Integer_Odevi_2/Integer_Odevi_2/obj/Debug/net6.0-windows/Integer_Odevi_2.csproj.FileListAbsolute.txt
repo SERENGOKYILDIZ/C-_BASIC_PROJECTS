@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\bin\Debug\net6.0-windows\Integer_Odevi_2.exe
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\bin\Debug\net6.0-windows\Integer_Odevi_2.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\bin\Debug\net6.0-windows\Integer_Odevi_2.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\bin\Debug\net6.0-windows\Integer_Odevi_2.dll
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\bin\Debug\net6.0-windows\Integer_Odevi_2.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.dll
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\refint\Integer_Odevi_2.dll
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\Integer_Odevi_2.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi_2\Integer_Odevi_2\obj\Debug\net6.0-windows\ref\Integer_Odevi_2.dll

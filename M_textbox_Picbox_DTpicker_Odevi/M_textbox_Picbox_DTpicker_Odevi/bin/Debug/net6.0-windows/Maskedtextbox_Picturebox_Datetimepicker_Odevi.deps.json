@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Maskedtextbox_Picturebox_Datetimepicker_Odevi/1.0.0": {
+        "runtime": {
+          "Maskedtextbox_Picturebox_Datetimepicker_Odevi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maskedtextbox_Picturebox_Datetimepicker_Odevi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

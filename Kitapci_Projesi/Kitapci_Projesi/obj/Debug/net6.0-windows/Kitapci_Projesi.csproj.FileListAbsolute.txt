@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\bin\Debug\net6.0-windows\Kitapci_Projesi.exe
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\bin\Debug\net6.0-windows\Kitapci_Projesi.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\bin\Debug\net6.0-windows\Kitapci_Projesi.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\bin\Debug\net6.0-windows\Kitapci_Projesi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\bin\Debug\net6.0-windows\Kitapci_Projesi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\refint\Kitapci_Projesi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\Kitapci_Projesi.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Kitapci_Projesi\Kitapci_Projesi\obj\Debug\net6.0-windows\ref\Kitapci_Projesi.dll

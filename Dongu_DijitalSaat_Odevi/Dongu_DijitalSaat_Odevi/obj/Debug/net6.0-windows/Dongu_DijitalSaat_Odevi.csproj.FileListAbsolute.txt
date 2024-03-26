@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\bin\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.exe
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\bin\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\bin\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\bin\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\bin\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\refint\Dongu_DijitalSaat_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\Dongu_DijitalSaat_Odevi.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dongu_DijitalSaat_Odevi\Dongu_DijitalSaat_Odevi\obj\Debug\net6.0-windows\ref\Dongu_DijitalSaat_Odevi.dll

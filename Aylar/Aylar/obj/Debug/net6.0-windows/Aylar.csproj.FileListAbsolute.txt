@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\bin\Debug\net6.0-windows\Aylar.exe
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\bin\Debug\net6.0-windows\Aylar.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\bin\Debug\net6.0-windows\Aylar.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\bin\Debug\net6.0-windows\Aylar.dll
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\bin\Debug\net6.0-windows\Aylar.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.dll
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\refint\Aylar.dll
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\Aylar.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Aylar\Aylar\obj\Debug\net6.0-windows\ref\Aylar.dll

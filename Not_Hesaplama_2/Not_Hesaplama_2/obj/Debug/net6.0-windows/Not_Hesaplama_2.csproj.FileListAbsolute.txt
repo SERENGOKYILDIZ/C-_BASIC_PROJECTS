@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\bin\Debug\net6.0-windows\Not_Hesaplama_2.exe
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\bin\Debug\net6.0-windows\Not_Hesaplama_2.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\bin\Debug\net6.0-windows\Not_Hesaplama_2.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\bin\Debug\net6.0-windows\Not_Hesaplama_2.dll
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\bin\Debug\net6.0-windows\Not_Hesaplama_2.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.dll
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\refint\Not_Hesaplama_2.dll
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\Not_Hesaplama_2.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Not_Hesaplama_2\Not_Hesaplama_2\obj\Debug\net6.0-windows\ref\Not_Hesaplama_2.dll

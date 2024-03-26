@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\bin\Debug\net6.0-windows\Integer_Odevi.exe
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\bin\Debug\net6.0-windows\Integer_Odevi.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\bin\Debug\net6.0-windows\Integer_Odevi.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\bin\Debug\net6.0-windows\Integer_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\bin\Debug\net6.0-windows\Integer_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\refint\Integer_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\Integer_Odevi.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Integer_Odevi\Integer_Odevi\obj\Debug\net6.0-windows\ref\Integer_Odevi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bilg_Yarismasi_Odevi/1.0.0": {
+        "runtime": {
+          "Bilg_Yarismasi_Odevi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bilg_Yarismasi_Odevi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

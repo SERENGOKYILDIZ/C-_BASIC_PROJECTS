@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\bin\Debug\net6.0-windows\Dort_Islem_Odevi.exe
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\bin\Debug\net6.0-windows\Dort_Islem_Odevi.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\bin\Debug\net6.0-windows\Dort_Islem_Odevi.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\bin\Debug\net6.0-windows\Dort_Islem_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\bin\Debug\net6.0-windows\Dort_Islem_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\refint\Dort_Islem_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\Dort_Islem_Odevi.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Dort_Islem_Odevi\Dort_Islem_Odevi\obj\Debug\net6.0-windows\ref\Dort_Islem_Odevi.dll

@@ -1,0 +1,36 @@
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.exe
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.Properties.Resources.resources
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\refint\Bilg_Yarismasi_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\ref\Bilg_Yarismasi_Odevi.dll
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.exe
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.deps.json
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.runtimeconfig.json
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.dll
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\bin\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.pdb
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.csproj.AssemblyReference.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.Form1.resources
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.Properties.Resources.resources
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.csproj.GenerateResource.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.AssemblyInfoInputs.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.AssemblyInfo.cs
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.csproj.CoreCompileInputs.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.dll
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\refint\Bilg_Yarismasi_Odevi.dll
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.pdb
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\Bilg_Yarismasi_Odevi.genruntimeconfig.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Bilg_Yarismasi_Odevi\Bilg_Yarismasi_Odevi\obj\Debug\net6.0-windows\ref\Bilg_Yarismasi_Odevi.dll

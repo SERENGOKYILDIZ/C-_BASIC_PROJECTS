@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\bin\Debug\net6.0-windows\Label_ve_Textbox_Odevi.exe
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\bin\Debug\net6.0-windows\Label_ve_Textbox_Odevi.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\bin\Debug\net6.0-windows\Label_ve_Textbox_Odevi.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\bin\Debug\net6.0-windows\Label_ve_Textbox_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\bin\Debug\net6.0-windows\Label_ve_Textbox_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\refint\Label_ve_Textbox_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\Label_ve_Textbox_Odevi.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Label_ve_Textbox_Odevi\Label_ve_Textbox_Odevi\obj\Debug\net6.0-windows\ref\Label_ve_Textbox_Odevi.dll

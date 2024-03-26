@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\bin\Debug\net6.0-windows\Hesap_Makinesi_Erken.exe
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\bin\Debug\net6.0-windows\Hesap_Makinesi_Erken.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\bin\Debug\net6.0-windows\Hesap_Makinesi_Erken.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\bin\Debug\net6.0-windows\Hesap_Makinesi_Erken.dll
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\bin\Debug\net6.0-windows\Hesap_Makinesi_Erken.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.dll
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\refint\Hesap_Makinesi_Erken.dll
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\Hesap_Makinesi_Erken.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Hesap_Makinesi_Erken\Hesap_Makinesi_Erken\obj\Debug\net6.0-windows\ref\Hesap_Makinesi_Erken.dll

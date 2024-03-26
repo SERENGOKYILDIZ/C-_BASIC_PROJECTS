@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Login_Paneli_Kodsuz/1.0.0": {
+        "runtime": {
+          "Login_Paneli_Kodsuz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Login_Paneli_Kodsuz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

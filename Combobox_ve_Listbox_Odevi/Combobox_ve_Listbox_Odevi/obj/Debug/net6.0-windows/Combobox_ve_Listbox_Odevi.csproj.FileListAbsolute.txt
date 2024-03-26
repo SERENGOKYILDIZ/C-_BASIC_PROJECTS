@@ -1,0 +1,17 @@
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\bin\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.exe
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\bin\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\bin\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\bin\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\bin\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\refint\Combobox_ve_Listbox_Odevi.dll
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\Combobox_ve_Listbox_Odevi.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Combobox_ve_Listbox_Odevi\Combobox_ve_Listbox_Odevi\obj\Debug\net6.0-windows\ref\Combobox_ve_Listbox_Odevi.dll

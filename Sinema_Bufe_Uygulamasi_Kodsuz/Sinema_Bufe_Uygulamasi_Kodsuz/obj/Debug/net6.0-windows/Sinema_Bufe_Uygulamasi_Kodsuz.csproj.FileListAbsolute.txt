@@ -1,0 +1,36 @@
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.exe
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.deps.json
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.runtimeconfig.json
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.dll
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.csproj.AssemblyReference.cache
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.Form1.resources
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.Properties.Resources.resources
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.csproj.GenerateResource.cache
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.AssemblyInfoInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.AssemblyInfo.cs
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.csproj.CoreCompileInputs.cache
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.dll
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\refint\Sinema_Bufe_Uygulamasi_Kodsuz.dll
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.pdb
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.genruntimeconfig.cache
+C:\DEPO\PROJELER\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\ref\Sinema_Bufe_Uygulamasi_Kodsuz.dll
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.exe
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.deps.json
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.runtimeconfig.json
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.dll
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\bin\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.pdb
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.csproj.AssemblyReference.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.Form1.resources
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.Properties.Resources.resources
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.csproj.GenerateResource.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.AssemblyInfoInputs.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.AssemblyInfo.cs
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.csproj.CoreCompileInputs.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.dll
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\refint\Sinema_Bufe_Uygulamasi_Kodsuz.dll
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.pdb
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\Sinema_Bufe_Uygulamasi_Kodsuz.genruntimeconfig.cache
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C# PROJECTS\Sinema_Bufe_Uygulamasi_Kodsuz\Sinema_Bufe_Uygulamasi_Kodsuz\obj\Debug\net6.0-windows\ref\Sinema_Bufe_Uygulamasi_Kodsuz.dll
